@@ -9,7 +9,7 @@ let days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", 
     return (
        <header>
            <div className='container'>
-               <h1 className='header__title'>TODO</h1>
+               <h1 className='header__title'>Kuba</h1>
                <div className='header__data'>
                    <div className='header__left'>
                        <h2 className='header__date'>{date.getDate()}</h2>
